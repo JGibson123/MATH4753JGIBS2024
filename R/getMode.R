@@ -1,4 +1,4 @@
-#' The Square Function
+#' getMode Function
 #'
 #' @param v vector of data
 #'

@@ -2,7 +2,7 @@
 % Please edit documentation in R/getMode.R
 \name{getmode}
 \alias{getmode}
-\title{The Square Function}
+\title{getMode Function}
 \usage{
 getmode(v)
 }
@@ -13,7 +13,7 @@ getmode(v)
 The mode of the data.
 }
 \description{
-The Square Function
+getMode Function
 }
 \examples{
 getmode(1:10)
